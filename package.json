@@ -1,7 +1,7 @@
 {
   "name": "reddicereduxreact",
   "version": "1.0.0",
-  "description": "",
+  "description": "none",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.5",
+    "webpack-dev-middleware": "^3.7.2"
   }
 }
